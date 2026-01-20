@@ -1,4 +1,4 @@
-#Eng
+# Eng
 # Console-based 2048 Game (C#)
 
 A simple console implementation of the classic **2048** puzzle game written in **C#**.
@@ -56,7 +56,7 @@ dotnet run
 * `Program.cs` — game loop, board rendering, move logic, tile merging, score system.
 
 ---
-#RU:  
+# RU:  
 
 # Консольная игра 2048 (C#)
 
